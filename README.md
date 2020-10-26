@@ -1,4 +1,4 @@
-# MyBatisPlusDruid
+# MyBatisPlusAndDruid
 
 
 采用SpringBoot快速构建集成MyBatisPlus和Druid监控，后续整合Redis
