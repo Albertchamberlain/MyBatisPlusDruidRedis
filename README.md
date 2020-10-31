@@ -1,7 +1,7 @@
-# MyBatisPlusAndDruid
+# MyBatisPlus,Druid,Redis
 
 
-采用SpringBoot快速构建集成MyBatisPlus和Druid监控，后续整合Redis
+采用SpringBoot快速构建集成MyBatisPlus和Druid监控，整合Redis
 
 创建数据库user，数据库编码为UTF-8
 
